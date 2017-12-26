@@ -11,9 +11,9 @@ Siden 16. marts, 2017 har der i Danmarks svampeatlas været interaktiv validerin
 
 Efterfølgende kan andre brugere erklære sig enige i bestemmelsen og dette vil trække sandsynligheden op for artsbestemmelsen efter principperne i pkt. 4 og 5. Brugere kan frit foreslå alternative bestemmelser til egne og andres fund. Den bestemmelse som samlet har den højeste sandsynligheds-score fremhæves automatisk af systemet, men alternative bestemmelser og deres sandsynlighed kan vises for registrerede brugere. Man kan angive hvor sikker man er på bestemmelsen og brugerens vægt reduceres efter princippet i pkt 6. Det giver en mulighed for at komme med et mere uforpligtende bestemmelsesforslag. I søgeresultater vises sandsynligheds-scoren i tre overordnede kategorier:
 
-1. Godkendt (score over 80)
-2. Sandsynlig (score mellem 50 og 80)
-3. Forslag (score mellem 1 og 50)
+1. Godkendt (score over 80), markeret med tre stjerner.
+2. Sandsynlig (score mellem 50 og 80), markeret med to stjerner
+3. Forslag (score mellem 1 og 50), markeret med 1 stjerne
 
 Brugere som er logget ind kan se den præcise score på bestemmelsen på fundsiden.
 
